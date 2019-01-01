@@ -10,7 +10,7 @@ Book dictionary:
 
 3.[TCP/IP指南应用层协议](https://github.com/xiaomaofeng/Reading/blob/master/Book/Reading/TCP%26IP%E6%8C%87%E5%8D%97%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE.docx)（completed）
 
-4.C++ Primer(compelete)
+4.C++ Primer(completed)
 
 Runoob.Com:
 
